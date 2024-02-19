@@ -1,0 +1,30 @@
+{
+  "name": "session_expo_5",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.6",
+    "@types/uuid": "^9.0.8",
+    "expo": "^49.0.22",
+    "expo-status-bar": "~1.11.1",
+    "native-base": "^2.15.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-native": "0.73.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.45",
+    "typescript": "^5.1.3"
+  },
+  "private": true
+}
